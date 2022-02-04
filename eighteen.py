@@ -17,6 +17,7 @@ c2=0
 
 for t in temp:
     for t1 in t:
-        if t1==
+        if t1==p:
+            print("first git edit")
 
 
